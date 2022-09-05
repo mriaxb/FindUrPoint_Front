@@ -20,7 +20,7 @@ Etapa 1:
 
 Etapa 2:
 
-> Acesse o link do projeto e [Find Your Point](https://anajusant.github.io/Find-Your-Point/)
+> Acesse o link do projeto e [Find Your Point](https://mriaxb.github.io/Find_Ur_Point/)
 
 
 ## 🤝 Colaboradores
